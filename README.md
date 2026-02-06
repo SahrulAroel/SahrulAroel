@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @SahrulAroel
-- 👀 I’m interested in web development, Java programming, and creating interactive desktop applications.
-- 🌱 I’m currently learning Java Swing and enhancing my skills in PHP and MySQL for web applications.
-- 💞️ I’m looking to collaborate on open-source projects related to Java and web development, or any interesting software development projects.
-- 📫 How to reach me sahrulcc07@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and often spend my free time exploring new tech gadgets.
+# Hi there, I'm Sahrul Gunawan 👋
 
-<!---
-SahrulAroel/SahrulAroel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Software Engineering Student | AI & Computer Vision Enthusiast
+
+I'm a final-year Software Engineering student at Politeknik Bengkalis. I have a deep passion for building intelligent systems, specifically focusing on Object Detection and Tracking. Currently, I'm polishing my skills in ensembling deep learning models and creating interactive web-based dashboards.
+
+---
+
+### 🛠️ What I'm working on:
+- **Thesis Project:** Developing a Vehicle Counting System using **YOLOv8** and **SSD** models for Roro Bengkalis CCTV feeds.
+- **AI Experiments:** Implementation of **DeepSORT** and **ByteTrack** for robust object tracking.
+- **Creative Coding:** Building a gaze-detection "meme system" using **MediaPipe**.
+
+### 💻 Tech Stack:
+- **Languages:** Python, JavaScript, HTML/CSS
+- **AI/ML:** PyTorch, TensorFlow, OpenCV, YOLOv8, SSD, MediaPipe
+- **Web:** Flask, Streamlit
+- **Tools:** Git, Docker, Linux
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SahrulAroel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahrulAroel&layout=compact&theme=radical)
+
+---
+
+
+### 📫 Let's Connect:
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **Email:** [your.email@example.com]
+
+*"Building intelligence, one epoch at a time."*
