@@ -19,10 +19,5 @@ I'm a final-year Software Engineering student at Politeknik Bengkalis. I have a 
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SahrulAroel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahrulAroel&layout=compact&theme=radical)
-
----
 
 *"Building intelligence, one epoch at a time."*
