@@ -25,9 +25,4 @@ I'm a final-year Software Engineering student at Politeknik Bengkalis. I have a 
 
 ---
 
-
-### 📫 Let's Connect:
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com]
-
 *"Building intelligence, one epoch at a time."*
